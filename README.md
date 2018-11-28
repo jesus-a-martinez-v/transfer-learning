@@ -11,13 +11,13 @@ Accompanying code of my blog posts regarding transfer learning:
 First, you'll need `conda`. Then, create the environment with the following command:
 
 ```
-conda create -n cnns-in-depth python=3.6
+conda create -n transfer-learning python=3.6
 ```
 
 Activate the environment:
 
 ```
-source activate cnns-in-depth
+source activate transfer-learning
 ```
 
 Finally, install the requirements:
